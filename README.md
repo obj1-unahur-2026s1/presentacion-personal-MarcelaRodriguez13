@@ -1,6 +1,6 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
-##  Hola, soy Marcela Belen Rodriguez 👋.....
+##  Hola, soy Marcela Belen Rodriguez 👋 
 
 ### 📌 Datos Personales
 - Originaria de Jujuy, actualmente residiendo en Buenos Aires (Jose Leon Suarez).
